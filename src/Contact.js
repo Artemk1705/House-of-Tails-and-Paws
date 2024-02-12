@@ -19,7 +19,7 @@ export default function Contact() {
           <a href="mailto:houseoftailsandpaws@gmail.com">
             <img src={emai} alt="Mail" className="icon" />
           </a>
-          <a href="tel:+7609125979">
+          <a href="tel:+17609125979">
             <img src={phone} alt="Phone number" className="icon" />
           </a>
         </div>
