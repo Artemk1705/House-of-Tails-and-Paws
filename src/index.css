@@ -393,8 +393,8 @@ ul {
   .serv_card_3,
   .serv_card_4 {
     width: 90vw;
-    margin-left: 5vw;
-    height: calc(var(--index) * 45.5);
+    margin-left: 2vw;
+    height: calc(var(--index) * 60.5);
   }
   .service_picture {
     width: calc(var(--index) * 10);
@@ -463,6 +463,10 @@ ul {
     display: flex;
     flex-direction: column;
     list-style: none;
+    align-items: start;
+  }
+  .check {
+    margin-left: 5vw;
   }
   .contact_block {
     display: flex;
